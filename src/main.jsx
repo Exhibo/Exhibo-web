@@ -6,8 +6,8 @@ import './index.css'
 //...
 import * as Sentry from "@sentry/react";
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import About from './components/About/About.jsx';
-import Support from './components/About/Support.jsx';
+import About from './About.jsx';
+import Support from './Support.jsx';
 
 const router = createBrowserRouter([
   {path: "/",element: <App />},
