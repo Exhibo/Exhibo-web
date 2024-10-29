@@ -6,21 +6,18 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
 body {
   color: black;
   width: 100dvw;
   overflow-x: hidden;
-  overflow-y: auto;
-  height: 100%;
+  overflow-y: scroll;
+  height: 100vh;
   background: #FFF;
   border-color: #3b3b3b;
   user-select: none;
-}
-
-canvas {
-  touch-action: none;
 }
 
 .screen-max-width {
