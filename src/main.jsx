@@ -15,7 +15,7 @@ const router = createBrowserRouter([
 ]);
 
 Sentry.init({
-  dsn: "https://d674932a77e6d9b9ced1190d70fd4691@o4506876178464768.ingest.us.sentry.io/4506876181151744",
+  dsn: "https://90d6b4e9c52deeb3d75f5f70877a5b3d@o4508211205177344.ingest.us.sentry.io/4508211206488064",
   integrations: [
     Sentry.browserTracingIntegration(),
     Sentry.metrics.metricsAggregatorIntegration(),
