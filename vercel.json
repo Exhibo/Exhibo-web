@@ -1,12 +1,9 @@
 {
-    "redirects": [
-      {
-        "source": "/",
-        "destination": "/"
-      },
-      {
-        "source": "/about_us",
-        "destination": "/about_us"
-      }
-    ]
-  }
+
+  "rewrites":  [
+
+      {"source": "/(.*)", "destination": "/"}
+
+   ]
+
+}
