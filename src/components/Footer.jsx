@@ -9,12 +9,12 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">
             More ways to shop: {' '}
             <span className="underline text-blue">
-            Contact us {' '}
+            <a href='mailto: exhibo.app@gmail.com'> Contact us {' '} </a>
             </span>
             right now {' '}
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 852-11111111
+            Or call 852-9248 6097
           </p>
         </div>
 
