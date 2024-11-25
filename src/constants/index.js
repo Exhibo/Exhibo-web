@@ -15,42 +15,33 @@ export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
-      "this is a text",
-      "hightlight text",
-      "hightlight text",
+      "",
+      "",
+      "",
     ],
     video: highlightFirstVideo,
-    videoDuration: 4,
+    videoDuration: 3,
   },
   {
     id: 2,
     textLists: [
-      "this is a text",
-      "hightlight text",
-      "hightlight text",
+      "User-centric",
+      "EXHIBO app provides",
+      "a seamless",
+      "exhibition management",
     ],
     video: highlightSecondVideo,
-    videoDuration: 5,
+    videoDuration: 3,
   },
   {
     id: 3,
     textLists: [
-      "this is a text",
-      "hightlight text",
-      "hightlight text",
+      " ",
+      " ",
+      " ",
     ],
     video: highlightThirdVideo,
-    videoDuration: 2,
-  },
-  {
-    id: 4,
-    textLists: [
-      "this is a text",
-      "hightlight text",
-      "hightlight text",
-    ],
-    video: highlightFourthVideo,
-    videoDuration: 3.63,
+    videoDuration: 3,
   },
 ];
 

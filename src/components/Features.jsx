@@ -64,21 +64,21 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    Exhibo is {' '}
+                   Exhibo: The All in One Reusable{' '}
                     <span className="text-black">
-                      Important Feature
+                    Smart Showcase
                     </span>,
-                    explain explain explain
+                     with mobile App monitoring system 
                   </p>
                 </div>
 
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    Exhibo has one of the best something something {' '}
+                    A smart and {' '}
                     <span className="text-black">
-                      Important Feature
+                    versatile showcase
                     </span>
-                    explain explain explain
+                    , perfect for event organizers and corporate exhibitors
                   </p>
                 </div>
 

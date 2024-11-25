@@ -13,15 +13,15 @@ const Footer = () => {
             </span>
             right now {' '}
           </p>
-          <p className="font-semibold text-gray text-xs">
+          {/* <p className="font-semibold text-gray text-xs">
             Or call 852-9248 6097
-          </p>
+          </p> */}
         </div>
 
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
 
         <div className="flex md:flex-row flex-col md:items-center justify-between">
-          <p className="font-semibold text-gray text-xs">Copright @ 2024 Thinkwave Inc. All rights reserved.</p>
+          <p className="font-semibold text-gray text-xs">Copright @ 2024 Thinkwave Limited All rights reserved.</p>
           <div className="flex">
             {footerLinks.map((link, i) => (
               <p key={link} className="font-semibold text-gray text-xs">
